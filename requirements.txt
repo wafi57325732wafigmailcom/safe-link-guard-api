@@ -1,4 +1,4 @@
 flask==2.3.3
 flask-cors==4.0.0
-virustotal-python==1.1.11
+virustotal-python==1.0.2  # ← غير هذا السطر فقط!
 gunicorn==21.2.0
